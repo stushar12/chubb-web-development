@@ -1,2 +1,2 @@
-# chubb-web-devlopment
+# chubb-web-development
 Assignments
