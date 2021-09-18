@@ -1,6 +1,6 @@
 body {
-    background: rgb(159, 156, 223);
-    background: linear-gradient(90deg, rgba(159, 156, 223, 1) 0%, rgba(159, 156, 223, 1) 0%, rgba(105, 219, 232, 0.3030196629213483) 35%);
+    background: rgb(191,189,235);
+    background: linear-gradient(90deg, rgba(191,189,235,1) 0%, rgba(221,215,209,0) 20%, rgba(191,227,231,0.3030196629213483) 35%);
 }
 
 .mymarginleft {
