@@ -1,6 +1,6 @@
 body {
-    background: rgb(191,189,235);
-    background: linear-gradient(90deg, rgba(191,189,235,1) 0%, rgba(221,215,209,0) 20%, rgba(191,227,231,0.3030196629213483) 35%);
+    background: rgb(191, 189, 235);
+    background: linear-gradient(90deg, rgba(191, 189, 235, 1) 0%, rgba(221, 215, 209, 0) 20%, rgba(191, 227, 231, 0.3030196629213483) 35%);
 }
 
 .mymarginleft {
@@ -123,4 +123,31 @@ body {
 
 .headingleft {
     margin-left: 150px;
+}
+
+.trapezoid {
+    border-bottom: 50px solid darkred;
+    border-left: 0px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0px;
+    width: 100px;
+    color: white;
+}
+
+
+.container {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+.figure {
+    margin-left: 100px;
+
 }

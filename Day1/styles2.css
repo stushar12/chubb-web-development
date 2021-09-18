@@ -168,3 +168,15 @@ body {
     margin-left: 100px;
     margin-right: 100px;
 }
+
+
+.container {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
